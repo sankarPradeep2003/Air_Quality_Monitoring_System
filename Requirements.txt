@@ -1,0 +1,16 @@
+AIR QUALITY MONITORING SYSTEM
+
+Hardware :
+	-NodeMCU ESP8266
+	-MQ-135 Sensor
+	-DHT-11 Sensor
+	-Buzzer
+	-16*2 LCD Display
+	-LED Light
+	-Lithium battery(5.5v)
+	-Jumper wires
+
+Software :
+	-Arduino IDE
+	-IFTTT (Email Notification)
+	-MIT App Inventor
